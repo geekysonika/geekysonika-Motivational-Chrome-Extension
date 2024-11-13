@@ -1,6 +1,6 @@
 # geekysonika-Motivational-Chrome-Extension
 
-[github](https://github.com/user-attachments/assets/d5d6d704-85f0-4805-ae04-f098e590fb89)
+
 
 
 
