@@ -1,4 +1,6 @@
 # geekysonika-Motivational-Chrome-Extension
+
+
 How to Use
 1. Installation:
 Download the extension files from GitHub repository.
