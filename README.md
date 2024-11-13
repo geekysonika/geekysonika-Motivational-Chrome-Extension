@@ -1,4 +1,5 @@
 # geekysonika-Motivational-Chrome-Extension
+![Screenshot 2024-11-13 151051](https://github.com/user-attachments/assets/61542448-9ca4-4c63-8347-88bb91710755)
 
 
 How to Use
